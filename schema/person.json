@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Romain Wisniewski",
+  "jobTitle": "Photographe",
+  "url": "https://romainwisniewski.com",
+  "image": "https://jbdevzmdzckuaasgzawl.supabase.co/storage/v1/object/public/gallery-images/7lwthkf1yjh_1767683530999.webp",
+  "birthDate": "2004-10-30",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Gien, France"
+  },
+  "sameAs": [
+    "https://github.com/Romain-Wisniewski"
+  ]
+}
+
