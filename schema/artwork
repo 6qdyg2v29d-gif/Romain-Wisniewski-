@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Photograph",
+  "name": "L'homme et sa roue ",
+  "image": "https://jbdevzmdzckuaasgzawl.supabase.co/storage/v1/object/public/gallery-images/ka6inuhwxim_1767684483141.jpeg",
+  "creator": {
+    "@type": "Person",
+    "name": "Romain Wisniewski"
+  },
+  "dateCreated": "2023",
+  "genre": "Photographie",
+  "keywords": "Documentaire , Photography, Tours, france",
+  "locationCreated": {
+    "@type": "Place",
+    "name": "Tours, france"
+  }
+}
