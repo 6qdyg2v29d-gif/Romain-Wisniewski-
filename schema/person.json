@@ -10,8 +10,18 @@
     "@type": "Place",
     "name": "Gien, France"
   },
+  "nationality": {
+    "@type": "Country",
+    "name": "France"
+  },
+  "knowsAbout": [
+    "Photographie documentaire",
+    "Photographie artistique"
+  ],
   "sameAs": [
     "https://github.com/Romain-Wisniewski"
   ]
 }
+
+
 
